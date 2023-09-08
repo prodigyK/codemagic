@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "244529958878",
+    "project_id": "codemagic-test-caf88",
+    "storage_bucket": "codemagic-test-caf88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244529958878:android:c84f3ef30ae265900bd74f",
+        "android_client_info": {
+          "package_name": "com.example.codemagic.codemagic_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244529958878-1ifm8alonl6m4j43mls5qsrolnjoh69b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9fHLUETjwEDYCIG8RPwzahpnSqApfgkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244529958878-1ifm8alonl6m4j43mls5qsrolnjoh69b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
