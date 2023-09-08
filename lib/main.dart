@@ -42,6 +42,7 @@ class MyHomePage extends StatefulWidget {
   // always marked "final".
 
   //Test comment to build-6
+  //Another comment to build-6
 
   final String title;
 
